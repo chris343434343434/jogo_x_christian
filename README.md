@@ -12,7 +12,9 @@ O objetivo do jogo e fazer a serpente comer 50 maças
 **JS**: Responsavel pelas funções de teclas, aparição das maças, calculo das maças, aumento da cerpente.
 
 ## Melhorias.
-1. [x] SUbir no git.
+1. [x] Subir no git.
 2. [ ] Arumar o contador.
 3. [ ] Arrumar a tela de mortes.
+4. [ ] Arrumar o visual da serpente para algo mais bonito.
+5. [ ] Arrumar as bordas do quadrado .
 
